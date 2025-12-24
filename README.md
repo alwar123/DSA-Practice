@@ -1,4 +1,4 @@
-# 📘 DSA Practice Repository
+# DSA Practice Repository
 
 This repository contains my **Data Structures and Algorithms (DSA)** practice, organized in a **clean, interview-oriented structure**.
 
